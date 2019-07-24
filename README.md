@@ -1,4 +1,4 @@
-# EjerciciosClase
+# Ejercicios de Clase
 
 Todos los ejercicios hechos en clase de Laboratorio de Programacion en el semestre de autoño 2018 en Barcelona.
 
